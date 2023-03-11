@@ -1,0 +1,16 @@
+{
+  "name": "enzyme-the-creator",
+  "version": "1.0.0",
+  "description": "This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Enzyme-the-creator.github.io/Enzyme-the-creator.githu.io",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
